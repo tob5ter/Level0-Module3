@@ -3,6 +3,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Years_Alive",
+            "request": "launch",
+            "mainClass": "_02_loop_variables._1_years_alive.Years_Alive",
+            "projectName": "Level0-Module3_26c0ea08"
+        },
+        {
+            "type": "java",
             "name": "BananaQuiz",
             "request": "launch",
             "mainClass": "_99_extra.BananaQuiz"
